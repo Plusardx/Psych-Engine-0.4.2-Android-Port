@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skee da bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We've finally made it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're now the king of rap! and my prince~"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop dah?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You want me to sing with you to celebrate?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "With pleasure!"
+		}
+	]
+}
