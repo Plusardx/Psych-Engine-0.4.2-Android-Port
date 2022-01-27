@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "What the funk was that???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "angry",
+			"expression": "scared",
+			"text": "I-i have no idea!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's move on to the next song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Maybe we could see that again..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "confused",
+			"expression": "talk",
+			"text": "... Alright, Matt."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "confused",
+			"expression": "talk",
+			"text": "BF..."
+		}
+	]
+}

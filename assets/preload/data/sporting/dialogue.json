@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heh. The same date, the same time. You really love BF that much huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "",
+			"expression": "confused",
+			"text": "Heh... You got it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm guessing you came back to challange me again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Same songs? You sure?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes, i'm sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "'I almost lost my job because of you...'"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was my words last time right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well then,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This ain't training anymore, girl."
+		}
+	]
+}

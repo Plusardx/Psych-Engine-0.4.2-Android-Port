@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Oh hey, GF."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "What interested you in coming back here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "... Well, i wanna see you again. It's been a year right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You said you'd come back once a year."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Heh, i did remember saying that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "By the way, where is little man? Aren't you two always together?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "He's... he's in a hospital right now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "What? But why?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "... I don't wanna talk about it for now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "I understand."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Well, since you're here, you wanna do the old songs he did?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... With pleasure."
+		}
+	]
+}

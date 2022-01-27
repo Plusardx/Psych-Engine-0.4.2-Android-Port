@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "So it IS the little man huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "You look... different."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BF... So you're really dead?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I can't believe it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*sobs*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Wait, look again GF."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "He still hasn't lost his legs."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wh-what do y-you m-mean?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Looks like this is just his soul, he's still alive."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "R-really?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Yeah, i can guarantee that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "He said: i'm still fine... for now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How did you know? I didn't hear anything."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "I can hear him, probably because i'm a ghost."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "By the way, since both are now here,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Wanna sing more? I'll try to recreate the scene that day."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... You're on!"
+		}
+	]
+}

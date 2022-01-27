@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Welcome back to the arena.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "Still remember who i am?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "confused",
+			"text": "Y-yeah, hi Matt...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "GF_Player"
+		},
+		{
+			"expression": "talk",
+			"text": "So, Why did you come back here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, i want to remind myself some old memories...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "GF_Player"
+		},
+		{
+			"expression": "talk",
+			"text": "... I heard the news, so i understand.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "Even though i hate you both, i'm not a soulless guy.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyway, i guess we'll warm up now. Show me what you got!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		}
+	]
+}

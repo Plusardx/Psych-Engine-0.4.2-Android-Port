@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Man..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "... It is time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank you, Garcello. For what you did for me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "No problem. I hope that BF will get through whatever he's facing with."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Say, i still have enough time for 1 more. Still the ol' song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garghosty",
+			"text": "Wanna do the last funk before i go?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_Player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Always."
+		}
+	]
+}

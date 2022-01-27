@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "... Heh, still feels like he was here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, it does feel like it...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "GF_Player"
+		},
+		{
+			"expression": "talk",
+			"text": "Just like what i told to him, this used to be the final exam. Are you ready for the challenge?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "demon",
+			"text": "Bring it on, Matt!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "GF_Player"
+		}
+	]
+}

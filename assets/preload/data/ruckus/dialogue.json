@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Huh, didn't thought you'd have the same energy as BF.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "confused",
+			"text": "Eheh... Thanks.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "GF_Player"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, this is a long one, can you keep up the rhythm like how he did?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll try then!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "GF_Player"
+		}
+	]
+}
